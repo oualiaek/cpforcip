@@ -1,0 +1,13 @@
+Reading from /nfs/ceph/chercheurs/ouali193/CP4CIP/data/NT/NT.dat
+Interordinal scaling complete
+Base model initialized
+Minimum support is 26/130
+number of variables = 264
+number of constraints = 911
+Search completed.
+Current memory usage: 15.8106 Mo
+Failures: 34823
+Fail stamps: 113439
+Branches: 226870
+all numips = 78613
+Exit status: 0

@@ -1,0 +1,13 @@
+Reading from /nfs/ceph/chercheurs/ouali193/CP4CIP/data/LW/LW_T.dat
+189 objects, 10 attributes
+Base model initialized
+Minimum support is 132/189
+number of variables = 5879
+number of constraints = 11662
+Search completed.
+Current memory usage: 16.8305 Mo
+Failures: 10070154
+Fail stamps: 20347613
+Branches: 40695218
+all numips = 10277456
+Exit status: 0

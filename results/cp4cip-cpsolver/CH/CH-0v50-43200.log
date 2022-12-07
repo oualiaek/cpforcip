@@ -1,0 +1,7 @@
+Reading from /nfs/ceph/chercheurs/ouali193/CP4CIP/data/CH/CH_T.dat
+209 objects, 8 attributes
+Base model initialized
+Minimum support is 104/209
+number of variables = 5241
+number of constraints = 12107
+Exit status: 124

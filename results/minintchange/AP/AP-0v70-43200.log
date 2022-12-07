@@ -1,0 +1,5 @@
+0
+>> Data read from file: /nfs/ceph/chercheurs/ouali193/CP4CIP/data/AP/AP.dat
+>> Minimum support is 95/135
+>> algorithms.MinIntChangeC   - 2275137 closed - 24199ms. Compression rate:0.9999999999999646
+Exit status: 0

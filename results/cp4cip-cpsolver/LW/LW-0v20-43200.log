@@ -1,0 +1,7 @@
+Reading from /nfs/ceph/chercheurs/ouali193/CP4CIP/data/LW/LW_T.dat
+189 objects, 10 attributes
+Base model initialized
+Minimum support is 37/189
+number of variables = 5879
+number of constraints = 11662
+Exit status: 124

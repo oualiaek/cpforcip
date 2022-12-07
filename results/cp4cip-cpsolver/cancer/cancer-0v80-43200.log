@@ -1,0 +1,7 @@
+Reading from /nfs/ceph/chercheurs/ouali193/CP4CIP/data/cancer/cancer_T.dat
+116 objects, 9 attributes
+Base model initialized
+Minimum support is 92/116
+number of variables = 3266
+number of constraints = 7644
+Exit status: 124

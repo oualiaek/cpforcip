@@ -1,0 +1,13 @@
+Reading from /nfs/ceph/chercheurs/ouali193/CP4CIP/data/yacht/yacht.dat
+Interordinal scaling complete
+Base model initialized
+Minimum support is 246/308
+number of variables = 952
+number of constraints = 3459
+Search completed.
+Current memory usage: 30.3995 Mo
+Failures: 8347
+Fail stamps: 25751
+Branches: 51494
+all numips = 17401
+Exit status: 0

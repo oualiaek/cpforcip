@@ -1,0 +1,5 @@
+0
+>> Data read from file: /nfs/ceph/chercheurs/ouali193/CP4CIP/data/cancer/cancer.dat
+>> Minimum support is 111/116
+>> algorithms.MinIntChangeC   - 14172 closed - 1081ms. Compression rate:1.0
+Exit status: 0

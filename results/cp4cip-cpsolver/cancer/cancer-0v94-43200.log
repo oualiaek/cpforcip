@@ -1,0 +1,13 @@
+Reading from /nfs/ceph/chercheurs/ouali193/CP4CIP/data/cancer/cancer_T.dat
+116 objects, 9 attributes
+Base model initialized
+Minimum support is 109/116
+number of variables = 3266
+number of constraints = 7644
+Search completed.
+Current memory usage: 16.5939 Mo
+Failures: 5238
+Fail stamps: 133842
+Branches: 267676
+all numips = 128601
+Exit status: 0

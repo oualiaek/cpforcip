@@ -1,0 +1,5 @@
+0
+>> Data read from file: /nfs/ceph/chercheurs/ouali193/CP4CIP/data/yacht/yacht.dat
+>> Minimum support is 61/308
+>> algorithms.MinIntChangeC   - 24414247 closed - 218226ms. Compression rate:0.999999972154566
+Exit status: 0

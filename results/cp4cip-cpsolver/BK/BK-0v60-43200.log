@@ -1,0 +1,13 @@
+Reading from /nfs/ceph/chercheurs/ouali193/CP4CIP/data/BK/BK_T.dat
+96 objects, 5 attributes
+Base model initialized
+Minimum support is 57/96
+number of variables = 1546
+number of constraints = 3636
+Search completed.
+Current memory usage: 15.2904 Mo
+Failures: 8827761
+Fail stamps: 80011380
+Branches: 160022752
+all numips = 71183616
+Exit status: 0

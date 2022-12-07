@@ -1,0 +1,13 @@
+Reading from /nfs/ceph/chercheurs/ouali193/CP4CIP/data/yacht/yacht_T.dat
+308 objects, 7 attributes
+Base model initialized
+Minimum support is 154/308
+number of variables = 6790
+number of constraints = 15164
+Search completed.
+Current memory usage: 18.1934 Mo
+Failures: 2895405
+Fail stamps: 4393550
+Branches: 8787092
+all numips = 1498142
+Exit status: 0

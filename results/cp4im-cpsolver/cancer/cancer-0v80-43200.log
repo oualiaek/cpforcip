@@ -1,0 +1,7 @@
+Reading from /nfs/ceph/chercheurs/ouali193/CP4CIP/data/cancer/cancer.dat
+Interordinal scaling complete
+Base model initialized
+Minimum support is 92/116
+number of variables = 1916
+number of constraints = 7485
+Exit status: 124

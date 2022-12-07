@@ -1,0 +1,5 @@
+0
+>> Data read from file: /nfs/ceph/chercheurs/ouali193/CP4CIP/data/NT/NT.dat
+>> Minimum support is 13/130
+>> algorithms.MinIntChangeC   - 108864 closed - 496ms. Compression rate:0.8770398481973435
+Exit status: 0

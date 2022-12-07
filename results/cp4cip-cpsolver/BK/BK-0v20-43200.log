@@ -1,0 +1,7 @@
+Reading from /nfs/ceph/chercheurs/ouali193/CP4CIP/data/BK/BK_T.dat
+96 objects, 5 attributes
+Base model initialized
+Minimum support is 19/96
+number of variables = 1546
+number of constraints = 3636
+Exit status: 124

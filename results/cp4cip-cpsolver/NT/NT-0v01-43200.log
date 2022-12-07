@@ -1,0 +1,13 @@
+Reading from /nfs/ceph/chercheurs/ouali193/CP4CIP/data/NT/NT_T.dat
+130 objects, 3 attributes
+Base model initialized
+Minimum support is 1/130
+number of variables = 1306
+number of constraints = 2919
+Search completed.
+Current memory usage: 14.9484 Mo
+Failures: 26132
+Fail stamps: 153986
+Branches: 307964
+all numips = 127851
+Exit status: 0

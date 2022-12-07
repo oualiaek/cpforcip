@@ -1,0 +1,13 @@
+Reading from /nfs/ceph/chercheurs/ouali193/CP4CIP/data/cancer/cancer.dat
+Interordinal scaling complete
+Base model initialized
+Minimum support is 104/116
+number of variables = 1916
+number of constraints = 7485
+Search completed.
+Current memory usage: 32.1761 Mo
+Failures: 293768
+Fail stamps: 7926578
+Branches: 15853148
+all numips = 7632807
+Exit status: 0
